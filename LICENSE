@@ -1,0 +1,44 @@
+ZAPL PUBLIC LICENSE (ZPL)
+Version 1.0, September 2026
+
+Copyright (c) [Year] ZAPL Corp / [Author Name]
+
+1. PERMISSION & ATTRIBUTION
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, subject to the following conditions:
+
+- Prominent Attribution: Any copy, modification, redistribution, or derivative 
+  work of this Software MUST explicitly keep and display the original copyright 
+  notice, this license text, and a clearly visible credit to the original 
+  developer(s) and ZAPL Corp.
+- Visibility Requirement: Credits to the original developer(s) must be easily 
+  accessible and visible to end-users (e.g., in the "About" section, interface, 
+  command-line output, or primary documentation of the software).
+
+2. MALICIOUS CODE & PROHIBITED USE
+The Software shall NOT be used, modified, integrated, or redistributed for the 
+purpose of creating, distributing, or operating any form of malicious software 
+(malware, viruses, trojans, ransomware, spyware, botnets, or any software 
+intended to disrupt system integrity or unauthorized data extraction).
+
+3. SCOPE OF COVERAGE
+This license governs all current and future projects, repositories, source code, 
+and associated software assets owned, developed, or published under ZAPL Corp 
+or its official contributors, unless explicitly stated otherwise in writing.
+
+4. AMENDMENTS & RIGHT TO UPDATE
+ZAPL Corp reserves the right to modify, amend, or update the terms of this 
+license at any time. Continued use of the Software after any such changes 
+shall constitute consent to the modified terms.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
